@@ -1,0 +1,44 @@
+{
+  "brands": [
+    {
+      "id": 1,
+      "brand": "Huda Beauty",
+      "shades": ["Pink Muse", "Fierce Red", "Nude Glam", "Coral Bliss"],
+      "price": 2500,
+      "in_stock": true,
+      "description": "Long lasting, high shine formula"
+    },
+    {
+      "id": 2,
+      "brand": "NYX",
+      "shades": ["Butter Peach", "Strawberry Milk", "Sugar Glass", "Berry Sorbet"],
+      "price": 1800,
+      "in_stock": true,
+      "description": "Soft glossy finish, moisturizing"
+    },
+    {
+      "id": 3,
+      "brand": "Medora",
+      "shades": ["Classic Pink", "Red Rose", "Nude Beige", "Peach Dream"],
+      "price": 800,
+      "in_stock": true,
+      "description": "Affordable, made for Pakistani skin tones"
+    },
+    {
+      "id": 4,
+      "brand": "Miss Rose",
+      "shades": ["Glossy Nude", "Hot Pink", "Mauve Magic", "Cherry Pop"],
+      "price": 650,
+      "in_stock": false,
+      "description": "Budget friendly, vibrant colors"
+    },
+    {
+      "id": 5,
+      "brand": "Charlotte Tilbury",
+      "shades": ["Pillow Talk", "Kidman's Kiss", "Electric Poppy", "Love Liberty"],
+      "price": 5500,
+      "in_stock": true,
+      "description": "Luxury formula, plumping effect"
+    }
+  ]
+}
